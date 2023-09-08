@@ -1,2 +1,2 @@
-# Fair-multit-hreaded-programs-in-go
+# Fair-multi-threaded-programs-in-go
 Learning
